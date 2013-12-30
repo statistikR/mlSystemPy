@@ -1,2 +1,5 @@
 gitRepo/
 *.pyc
+ch6classySenti/twitterDataPull/rawData/
+*Credentials*
+full-corpus.csv
