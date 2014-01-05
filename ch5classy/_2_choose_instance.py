@@ -5,6 +5,9 @@ first created: 2014-01-02
 program name:  ch5classy._2_choose_instance.py
 original path: /Users/micha/GoogleDrive/WORKSPACE/travaille/dataScience/mlSystemPy/ch5classy/_2_choose_instance.py
 
+Acknowledgement: Some of this code is adapted from code found in repository: 
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+
 program function:
 -----------------
 

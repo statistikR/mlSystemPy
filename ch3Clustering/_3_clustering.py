@@ -5,6 +5,9 @@ first created: 2013-12-13
 program name:  _3_clustering.py
 original path: /Users/micha/GoogleDrive/WORKSPACE/travaille/dataScience/mlSystemPy/ch3Custering/_3_clustering.py
 
+Acknowledgement: Some of this code is adapted from code found in repository: 
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+
 program function:
 -----------------
 This program applies clustering algorithms to newsgroup posts

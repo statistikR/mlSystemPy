@@ -1,6 +1,9 @@
 '''
 Created on Dec 4, 2013
 
+Acknowledgement: Some of this code is based on code found in repository: 
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+
 @author: micha
 '''
 import os

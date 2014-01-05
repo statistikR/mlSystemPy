@@ -5,6 +5,9 @@ first created: 2013-12-27
 program name:  ch5classy._1_convertXMLtoTSV.py
 original path: /Users/micha/GoogleDrive/WORKSPACE/travaille/dataScience/mlSystemPy/ch5classy/_1_convertXMLtoTSV.py
 
+Acknowledgement: Some of this code is adapted from code found in repository: 
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+
 program function:
 -----------------
 

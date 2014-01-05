@@ -5,6 +5,9 @@ first created: 2013-12-20
 program name:  _1_topicModeling.py
 original path: /Users/micha/GoogleDrive/WORKSPACE/travaille/dataScience/mlSystemPy/ch4topicModeling/_1_topicModeling.py
 
+Acknowledgement: Some of this code is adapted from code found in repository: 
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+
 program function:
 -----------------
 

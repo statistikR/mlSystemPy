@@ -5,6 +5,9 @@ first created: 2013-12-13
 program name:  _2_advancedTF-IDFvectorizer.py
 original path: /Users/micha/GoogleDrive/WORKSPACE/travaille/dataScience/mlSystemPy/ch3Custering/_2_advancedTF-IDFvectorizer.py
 
+Acknowledgement: Some of this code is adapted from code found in repository: 
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+
 program function:
 -----------------
 testing the advanced vectorizer from _util_txtProcessing

@@ -1,6 +1,9 @@
 '''
 Created on Dec 12, 2013
 
+Acknowledgement: Some of this code is adapted from code found in repository: 
+https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
+
 @author: micha
 '''
 
